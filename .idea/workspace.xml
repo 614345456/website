@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40406c7b-8345-47cb-ad8e-73639ea2d72d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog/en-us/blog1.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/en-us/blog1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/zh-cn/blog1.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/zh-cn/blog1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site_config/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/site_config/site.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,12 +25,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="1" />
+          <entry key="js" value="2" />
+          <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -38,23 +42,60 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="14" />
+          <entry key="js" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="14" />
+          <entry key="JavaScript" value="29" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site_config/site.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="1845">
+              <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/en-us/dir/demo3.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/zh-cn/dir/demo3.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site_config/blog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-698">
+              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/en-us/blog1.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="298" selection-start-line="9" selection-start-column="298" selection-end-line="9" selection-end-column="298" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/zh-cn/blog1.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="118" selection-start-line="9" selection-start-column="118" selection-end-line="9" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -68,6 +109,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/site_config/site.js" />
+        <option value="$PROJECT_DIR$/blog/zh-cn/blog1.md" />
+        <option value="$PROJECT_DIR$/blog/en-us/blog1.md" />
       </list>
     </option>
   </component>
@@ -92,7 +135,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="815" />
@@ -109,6 +152,28 @@
             <path>
               <item name="y" type="b2602c69:ProjectViewProjectNode" />
               <item name="y" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="y" type="b2602c69:ProjectViewProjectNode" />
+              <item name="y" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="y" type="b2602c69:ProjectViewProjectNode" />
+              <item name="y" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="en-us" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="y" type="b2602c69:ProjectViewProjectNode" />
+              <item name="y" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="zh-cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="y" type="b2602c69:ProjectViewProjectNode" />
+              <item name="y" type="462c0819:PsiDirectoryNode" />
+              <item name="site_config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,15 +213,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560848954880</updated>
-      <workItem from="1560848957619" duration="921000" />
+      <workItem from="1560848957619" duration="1518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="921000" />
+    <option name="totallyTimeSpent" value="1518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="815" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
@@ -189,8 +254,35 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/site_config/site.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="1845">
+          <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/en-us/dir/demo3.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/zh-cn/dir/demo3.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site_config/blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-698">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/zh-cn/blog1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="118" selection-start-line="9" selection-start-column="118" selection-end-line="9" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/en-us/blog1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="298" selection-start-line="9" selection-start-column="298" selection-end-line="9" selection-end-column="298" />
         </state>
       </provider>
     </entry>
