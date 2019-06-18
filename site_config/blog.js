@@ -4,10 +4,10 @@ export default {
     postsTitle: 'All posts',
     list: [
       {
-        title: 'The first blog',
-        author: 'author1',
-        dateStr: 'May 12nd，2018',
-        desc: 'Blog description, some text to sum up the main content of the blog',
+        title: 'docker deploys MySQL images',
+        author: 'sun',
+        dateStr: 'May 12nd，2019',
+        desc: 'docker deploys MySQL images',
         link: '/en-us/blog/blog1.html',
       },
       {
@@ -59,10 +59,10 @@ export default {
     postsTitle: '所有文章',
     list: [
       {
-        title: '第一篇博客',
-        author: 'author1',
-        dateStr: 'May 12nd，2018',
-        desc: '博客描述，总结博客的主体内容',
+        title: 'docker部署mysql镜像',
+        author: 'sun',
+        dateStr: 'May 12nd，2019',
+        desc: 'docker部署mysql镜像',
         link: '/zh-cn/blog/blog1.html',
       },
       {
